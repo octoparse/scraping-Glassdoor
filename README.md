@@ -1,5 +1,5 @@
 # Scrape Job Information from Glassdoor
-Download the `.otd` file, import into Octoparse, `a free web scraping App,` and get the web data
+Download the `.otd` file and import it into [Octoparse](https://www.octoparse.com/) - a free web scraping App. You can get the data you want by simply clicking.
 
 ## Data extracted:
  * Title
